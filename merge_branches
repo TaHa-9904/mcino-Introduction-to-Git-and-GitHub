@@ -1,0 +1,8 @@
+$ git checkout main
+Switched to branch 'main'
+
+$ git merge bug-fix-typo
+Updating f3c72ab..9d1a234
+Fast-forward
+ simple-interest.sh | 1 +
+ 1 file changed, 1 insertion(+)
